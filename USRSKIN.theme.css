@@ -2,9 +2,9 @@
 
 /* korbosoft */
 [data-author-id="455856406420258827"] {
-  [class^="message_"] {
-    [class^="contents_"] [class^="messageContent_"] {
-      color: #F0F !important;
+  [class^="message_"] [class^="contents_"] {
+    [id^="message-content"] {
+      color: #f0f !important;
     }
   }
 }
