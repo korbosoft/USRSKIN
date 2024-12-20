@@ -17,8 +17,10 @@ Heres an example that makes your message text red:
 ```css
 /* YOUR_USERNAME_HERE */
 [data-author-id="YOUR_USER_ID_HERE"] {
-  [class^="contents_"] [class^="messageContent_"] {
-    color: red !important;
+  [class^="message_"] [class^="contents_"] {
+    [id^="message-content"] {
+      color: red !important;
+    }
   }
 }
 ```
