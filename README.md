@@ -12,7 +12,7 @@ Client-side customization for individual users' messages
 2. Add `https://raw.githubusercontent.com/korbosoft/USRSKIN/main/USRSKIN.theme.css` to your online themes.
 
 ### Customization
-At the moment, you'll have to make a Pull Request to this repository -- adding css styling to USRSKIN.theme.css -- in order to add customization to YOUR messages. I promise it'll get easier. Pinky swear
+At the moment, you'll have to make a Pull Request to this repository -- adding css styling to USRSKIN.theme.css -- in order to add customization to YOUR messages. I promise it'll get easier. Pinky swear :)
 Heres an example that makes your message text red:
 ```css
 /* YOUR_USERNAME_HERE */
@@ -25,6 +25,10 @@ Heres an example that makes your message text red:
 }
 ```
 (Obviously, you'll have to fill in your username and user ID in place of `YOUR_USERNAME_HERE` and `YOUR_USER_ID_HERE` respectively. You can find your user ID by enabling developer mode in Discord's settings, clicking your profile picture in the bottom left, and clicking "Copy User ID". _This is **NOT** personal information, and is accessable by anyone._)
+
+### Skin Rules
+
+1. Do not modify the message in a way that could possibly make it harder to read
 
 ## Legal
 
