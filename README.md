@@ -3,11 +3,11 @@
 
 Client-side customization for individual users' messages
 
-This theme REQUIRES [Vencord](https://github.com/Vendicated/Vencord) and its ThemeAttributes plugin to function.
+This theme REQUIRES [Vencord](https://github.com/Vendicated/Vencord) and the _ThemeAttributes_ plugin to function.
 
 # Usage
 ## Installation
-1. Enable the ThemeAttributes plugin in Vencord.
+1. Enable the _ThemeAttributes_ plugin in Vencord.
 2. Add `https://raw.githubusercontent.com/korbosoft/USRSKIN/main/USRSKIN.theme.css` to your online themes.
 
 ## Customization
@@ -21,7 +21,7 @@ Heres an example that makes your message text red:
   }
 }
 ```
-(Obviously, you'll have to fill in your username and user ID in place of `YOUR_USERNAME_HERE` and `YOUR_USER_ID_HERE` respectively. You can find your user ID by enabling developer mode in Discord's settings, clicking your profile picture in the bottom left, and clicking "Copy User ID". *This is **NOT** personal information, and is accessable by anyone.*)
+(Obviously, you'll have to fill in your username and user ID in place of `YOUR_USERNAME_HERE` and `YOUR_USER_ID_HERE` respectively. You can find your user ID by enabling developer mode in Discord's settings, clicking your profile picture in the bottom left, and clicking "Copy User ID". _This is **NOT** personal information, and is accessable by anyone._)
 
 # Legal
 
